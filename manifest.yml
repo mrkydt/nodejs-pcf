@@ -1,0 +1,3 @@
+applications:
+- name: nodejs-pcf-demo
+buildpack: nodejs_buildpack
